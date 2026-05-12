@@ -1,35 +1,29 @@
-# Metrics
-
-> Updated by agents after each run. Review this weekly to track momentum.
+# SchoolFit — Metrics
 
 ---
 
 ## Current Snapshot
 
-**Last updated:** [Date]
-
+**Last updated:** 2026-05-12
 **Stage:** Pre-launch
 
 | Metric | Value | Change (7d) | Target |
 |--------|-------|-------------|--------|
-| Total users | 0 | — | 10 by end of month 1 |
-| Active users (7d) | 0 | — | — |
-| MRR | $0 | — | $500 by month 2 |
-| Paid customers | 0 | — | — |
-| Churn rate | — | — | < 5% |
+| Total users | 0 | — | 50 by end of month 1 |
+| Paid reports sold | 0 | — | 40 by end of month 3 |
+| MRR | $0 | — | $2,000 by month 3 |
 | Landing page visits | 0 | — | — |
-| Email signups | 0 | — | — |
+| Quiz completions | 0 | — | — |
+| Free → Paid conversion | — | — | 15%+ |
 
 ---
 
 ## Weekly Snapshots
 
-<!-- Agents append to this section each week -->
-
-### Week of [DATE]
+### Week of 2026-05-12
 - Users: 0
 - MRR: $0
-- Top channel: —
+- Top channel: Not launched
 - What worked: —
 - What didn't: —
 
@@ -37,17 +31,16 @@
 
 ## Milestone Log
 
-<!-- Major milestones get logged here -->
-
 | Date | Milestone |
 |------|-----------|
-| [Date] | Company set up |
+| 2026-05-12 | Company set up — SchoolFit |
 | | First deploy |
-| | First user (outside founder) |
-| | First paying customer |
-| | $100 MRR |
-| | $1,000 MRR |
-| | 100 users |
+| | First user completes quiz |
+| | First paid report ($49) |
+| | 10 paid reports |
+| | $1,000 revenue |
+| | 100 quiz completions |
+| | $2,000 MRR |
 
 ---
 
@@ -55,11 +48,11 @@
 
 | Channel | Visitors | Signups | Conversion | Status |
 |---------|----------|---------|------------|--------|
-| Organic / SEO | 0 | 0 | — | Not started |
-| Twitter/X | 0 | 0 | — | Not started |
-| Reddit | 0 | 0 | — | Not started |
-| Direct outreach | 0 | 0 | — | Not started |
+| Facebook groups | 0 | 0 | — | Not started |
+| SEO / Organic | 0 | 0 | — | Not started |
+| Word of mouth | 0 | 0 | — | Not started |
 | Product Hunt | 0 | 0 | — | Not started |
+| LinkedIn | 0 | 0 | — | Not started |
 
 ---
 
@@ -68,9 +61,3 @@
 | Date | Type | Title | Platform | Views/Engagement |
 |------|------|-------|----------|-----------------|
 | — | — | — | — | — |
-
----
-
-## Notes
-
-[Observations, anomalies, or context for these numbers]
